@@ -6,12 +6,12 @@
 - 🌱 I’m currently learning **React Native and NextJS**
 
 - 📫me **Hadinurmuhamad8@gmail.com**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antsistra&show_icons=true&locale=en" alt="antsistra" /></p>
+
 
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antsistra&show_icons=true&locale=en&layout=compact" alt="antsistra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antsistra&show_icons=true&locale=en" alt="antsistra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antsistra&" alt="antsistra" /></p>
