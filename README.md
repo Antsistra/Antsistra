@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antsistra&label=Profile%20views&color=0e75b6&style=flat" alt="antsistra" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [Hadinm.my.id](Hadinm.my.id)
 
 - 📫 How to reach me **hadinurmuhamad8@gmail.com**
 
